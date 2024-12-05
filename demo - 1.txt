@@ -1,2 +1,4 @@
-print("tarun is learing pythin full stack")
-print("today is friday")
+{
+abc.............xyz
+}
+updated by other user
